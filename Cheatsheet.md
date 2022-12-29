@@ -1,8 +1,7 @@
-* Git Cheatsheet
+Git Cheatsheet
 ---
+Cloning
 
-*** Cloning
----
 In a repository:
   1. Click on <>Code Button
   2. Copy SSH Key
@@ -11,8 +10,7 @@ In terminal:
   1. Switch to appropriate directory
   2. git clone <SSH KEY>
 
-*** Workflow
----
+Workflow
   1. git add
        - git add .
          - period represents every change in current directory
