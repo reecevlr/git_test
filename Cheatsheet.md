@@ -18,3 +18,4 @@ Workflow
   2. git commit -m "important changes made"
   3. git status
   4. git log
+  5. git push / git push origin <branch name>
